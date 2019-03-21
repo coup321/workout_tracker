@@ -1,0 +1,14 @@
+A <a modularity.txt modular> program consists
+of software components that satisfy the following
+two properties:
+<p> 1. Cohesion: each component performs one
+well−defined task.
+<p> 2. Independence: each component is as <a
+independence.txt independent> as possible from the
+others.
+<p> Modularity is usually achieved through some
+combination of the following:
+<p>
+procedural abstraction <br>
+data abstraction <br>
+object−oriented programming

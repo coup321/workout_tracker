@@ -4,8 +4,8 @@ StatLifts is a data analysis pipeline that I developed in order to facilitate da
 - Outstandingly simple input on my phone in the gym.
 - Easy access to graphs and tables in a clear and interpretable format for in the moment decision making regarding training decisions.
 
-I eventually discovered that I could record my workouts in a simple fashion using google spreadsheets in the following format:
-<img src="./figures/spreadsheet_example.png">
+I eventually discovered that I could record my workouts in a simple fashion using google spreadsheets in the following format:<br>
+<img src="./figures/spreadsheet_example.png" height='240' width='426'>
 
 This simply left the data pipeline to be developed in the way that I wanted. 
 

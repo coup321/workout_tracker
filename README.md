@@ -1,11 +1,11 @@
 # Introduction
 
-StatLifts is a data analysis pipeline that I developed in order to use data science to optimize my training. In my searches of apps and services, I could not find a resource that offered the following:<br>
+StatLifts is a data analysis pipeline that I developed in order to facilitate data science mediated optimization of my training. In my searches of apps and services, I could not find a resource that offered the following:<br>
 - Outstandingly simple input on my phone in the gym.
 - Easy access to graphs and tables in a clear and interpretable format for in the moment decision making regarding training decisions.
 
 I eventually discovered that I could record my workouts in a simple fashion using google spreadsheets in the following format:
-<img src="../figures/spreadsheet_example.png">
+<img src="./figures/spreadsheet_example.png">
 
 This simply left the data pipeline to be developed in the way that I wanted. 
 
